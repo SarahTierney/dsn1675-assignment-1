@@ -1,0 +1,144 @@
+<h1>Museum of Antiquities</h1>
+
+  <nav>
+    <ol>
+      <li><a href="#">[ Seven wonders ]
+      <li><a href="#">[ Buy tickets ]
+      <li><a href="#">[ Now playing ]
+      <li><a href="#">[ This week ]
+
+    </ol>
+  </nav>
+
+---
+
+    <strong><p>The Seven Wonders of the Ancient World</p></strong>
+    Remarkable constructions of classical antiquity almost completely lost in time.
+
+---
+
+      <h2>The Seven Wonders
+
+      <h3>Great Pyramid of Giza
+      <dl>
+      <dd>Date of construction: <dt>2584–2561 BC
+      <dd>Builders:</dd><dt> Egyptians
+      <dd>Location:</dd><dt> Giza Necropolis, Egypt
+      <a href>[ Learn more about Giza ]
+
+Hanging Gardens of Babylon
+Date of construction: Circa 600 BC
+Builders: Babylonians
+Location: Nineveh, Iraq
+[ Learn more about the Hanging Gardens ]
+
+Temple of Artemis
+Date of construction: Circa 550 BC
+Builders: Greeks
+Location: Selçuk, Turkey
+[ Learn more about the Temple ]
+
+Statue of Zeus at Olympia
+Date of construction: 435 BC
+Builders: Greeks
+Location: Olympia, Greece
+[ Learn more about the Statue ]
+
+Mausoleum at Halicarnassus
+Date of construction: 351 BC
+Builders: Persians
+Location: Bodrum, Turkey
+[Learn more about the Mausoleum ]
+
+Colossus of Rhodes
+Date of construction: 292–280 BC
+Builders: Greeks
+Location: Rhodes, Greece
+[ Learn more about Colossus ]
+
+Lighthouse of Alexandria
+Date of construction: Circa 280 BC
+Builders: Ptolemaic Egyptians
+Location: Alexandria, Egypt
+[ Learn more about the Lighthouse ]
+
+---
+
+<h3>Buy tickets
+
+<p>Come explore the ancient wonders with our amazing teleportation technology that jumps you around the world.
+
+<a href>[ $15 for adults ]
+<a href>[ $5 for kids ]
+
+<h3>Become a member
+
+<p>Is one visit not enough?
+Join our yearly program for unlimited access.
+
+<a href>[ $99 for adults ]
+[ $39 for kids ]
+
+---
+
+<h2>Now playing on the large screen
+
+<h3>Atlantis: Why we’re so mysterious
+<p>From allegory to fiction to mystery
+
+<a href>[ See show times ]
+
+---
+
+<h2>This week at the museum
+
+<ol>
+  <li>
+    <h3>Saturday & Sunday
+      <ul>
+        <li>Atlantis city tours
+        <li>Underwater explorer: see outside the bubble
+      </ul
+    <li>
+
+
+  Monday
+    Try this out: have fun building your own ancient wonder
+    Amazing architecture: explore the science of how the pyramids were built
+
+  Tuesday
+    Awesome art: witness art in action as a marble sculpture is born
+    Gold rush: learn about the metal and why it was so coveted
+
+  Wednesday
+    Try this out: wear clothes that the ancients wore
+    Gardenology: learn to plant and maintain amazing gardens
+
+  Thursday
+    Amazing architecture: explore the science of buildings
+    Gardenology: the science behind trees and the environment
+
+  Friday
+    Atlantis city tours
+    Awesome art: witness a full mosaic floor under construction
+
+---
+<footer>
+
+<p>© Museum of Antiquities</p>
+
+<a href>[ hello@antiquities.museum ]
+<a href>[ 1 888 000 1618 ]
+<a href>[ Hours ]
+<a href>[ Directions ]
+
+<p>1618 Plato Blvd.
+Atlantis, Atlantis, Atlantic Ocean</p>
+
+  <nav>
+    <a href>[ Exhibits ]
+    <a href>[ Collections ]
+    <a href>[ Donors & sponsors ]
+    <a href>[ Teacher information ]
+    <a href>[ Birthday rentals ]
+  </nav>
