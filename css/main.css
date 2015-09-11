@@ -1,7 +1,8 @@
 html {
   box-sizing: border-box;
   color: #000;
-  font-family: ;}
+  font-family: 'Open Sans', sans-serif;
+  }
 
   *, *::before, *::after {
     box-sizing: inherit;
