@@ -4,11 +4,11 @@ html {
   font-family: 'Open Sans', sans-serif;
   }
 
-  *, *::before, *::after {
-    box-sizing: inherit;
-  }
+    *, *::before, *::after {
+      box-sizing: inherit;
+    }
 
-  body {
-    margin: 0;
-    padding: 0;
-  }
+    body {
+      margin: 0;
+      padding: 0;
+    }
