@@ -2,6 +2,7 @@ html {
   box-sizing: border-box;
   color: #000;
   font-family: 'Open Sans', sans-serif;
+  background-color: #dfe9f5;
   }
 
 *, *::before, *::after {
@@ -20,9 +21,15 @@ h1 {
   background-size: .8em auto;
   width: 95%;
   margin: 0 auto;
-  color: #512200;
   font-size: 3em;
   text-align: center;
+  color: #fff;
+  font-weight: 400;
+  text-shadow: 1px 2px 6px #000;
+  padding: 0;
+
+
+
 }
 /*h1 {
   background-image: url("../images/logo.gif");
@@ -53,8 +60,8 @@ nav li {
   text-align: center;
   float: left;
   width: 25%;
-  border: 1px solid #9fb681;
-  background-color: #bfd879;
+  border: 1px solid #3c606c;
+  background-color: #748b9b;
 }
 
 nav a {
@@ -68,5 +75,13 @@ nav a {
 }
 
 nav a:hover {
-  background-color: #9fb681;
+  background-color: #3c606c;
+}
+
+.header {
+  background-image:  url(../images/maerten.jpg);
+  background-size: cover;
+  padding: 9em 1em 1em 1em;
+  color: #fff;
+  text-shadow: 1px 2px 6px #000;
 }
