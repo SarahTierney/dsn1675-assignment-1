@@ -127,13 +127,18 @@ strong {
   transform: translateX(50%);
 }
 
+.days {
+  padding: 2em;
+}
+
+
 li {
   list-style-type: none;
 }
 
 footer {
   background-color: #9bacb6;
-  padding: 2em;
+  padding: 1em 2em 1em 2em;
   border-top: 0.15em solid #222222;
 }
 
