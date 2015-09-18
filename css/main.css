@@ -84,7 +84,7 @@ h2 {
 }
 
 h3 {
-  padding-left: 1em;
+  padding-left: 2em;
 }
 
 .link {
@@ -141,12 +141,12 @@ footer {
   overflow: hidden;
   margin: 0;
   clear: left;
+  padding-left: 0;
 }
 
 .list ol {
   list-style-type: none;
   margin: 0;
-  padding: 0;
 }
 
 .list li {
