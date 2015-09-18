@@ -154,13 +154,3 @@ footer {
   float: left;
   width: 33.33%;
 }
-
-.list a {
-  padding: 0.5em;
-  margin: 0em;
-  list-style-type: none;
-  color: #fff;
-  text-decoration: none;
-  font-size: 1.15rem;
-  display: block;
-}
