@@ -136,17 +136,3 @@ footer {
   padding: 1em;
   border-top: 0.15em solid #222222;
 }
-
-.desc li{
-	display: inline-block;
-	width: 32%;
-}
-.desc{
-	padding: 0;
-}
-.desc dt{
-	font-weight: bold;
-}
-.desc dl, .desc dd{
-	margin: 0;
-}
