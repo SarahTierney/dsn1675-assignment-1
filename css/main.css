@@ -136,3 +136,31 @@ footer {
   padding: 1em;
   border-top: 0.15em solid #222222;
 }
+
+.list {
+  overflow: hidden;
+  margin: 0;
+  clear: left;
+}
+
+.list ol {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.list li {
+  text-align: center;
+  float: left;
+  width: 33.33%;
+}
+
+.list a {
+  padding: 0.5em;
+  margin: 0em;
+  list-style-type: none;
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.15rem;
+  display: block;
+}
