@@ -322,11 +322,16 @@ footer a  {
     display: block;
   }
 
+li p {
+  margin: 0.5em;
+}
 
   .giza {
     width: 50%;
-    padding: 0;
+    padding-bottom: 2em;
     float: left;
+    clear: left;
+
   }
 
   li {
@@ -361,6 +366,11 @@ footer {
 
 .footer a {
   display: block;
+}
+
+.group {
+  float: right;
+  width: 50%;
 }
 
 }
