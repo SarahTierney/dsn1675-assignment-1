@@ -45,6 +45,7 @@ a {
    border-radius: 10px;
    margin: 0.5em;
    color: #fff;
+   display: block;
 }
 
 .nav {
@@ -171,6 +172,16 @@ ul {
   margin-bottom: 2em;
 }
 
+.footer {
+display: block;
+background-color: #dfe9f5;
+text-align: center;
+color: white;
+width: 100%;
+bottom: 1em;
+padding: 1em;
+}
+
 
 @media only screen and (min-width: 24em) {
   .nav li {
@@ -216,6 +227,7 @@ ul {
 
 footer {
   background-color: #dfe9f5;
+  padding: 1em;
 }
 
 .footer a {
