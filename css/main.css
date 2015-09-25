@@ -465,7 +465,5 @@ a {
 
  main a::after {
     content: " (" attr(href) ")";
-    color: #999;
-
   }
 }
