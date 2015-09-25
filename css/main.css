@@ -25,6 +25,7 @@ body {
   background-color: #dfe9f5;
   color: #000;
   padding-top: 1em;
+  padding-bottom: 1em;
 }
 
 .logo {
@@ -72,7 +73,7 @@ a {
   color: white;
   width: 100%;
   text-align: center;
-  text-shadow: 1px 2px 6px #000;
+  text-shadow: 1px 2px 3px #000;
 }
 
 .banner p {
@@ -80,6 +81,7 @@ a {
   color: white;
   text-align: center;
   padding-bottom: 1em;
+  text-shadow: 1px 2px 3px #000;
 }
 
 h2 {
@@ -334,6 +336,7 @@ li p {
 
   .giza {
     width: 50%;
+    padding-left: 0;
     padding-bottom: 2em;
     float: left;
     clear: left;
@@ -379,4 +382,29 @@ footer {
   width: 50%;
 }
 
+}
+
+@media print {
+
+  nav {
+    display: none;
+  }
+
+.link {
+  display: none;
+}
+
+.footer {
+  display: none;
+}
+
+a {
+  display: none;
+}
+
+ main a::after {
+    content: " (" attr(href) ")";
+    color: #999;
+
+  }
 }
